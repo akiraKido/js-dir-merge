@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outFile": "./dist/js-dir-merge.js",
+        "module": "system"
+    }
+}
